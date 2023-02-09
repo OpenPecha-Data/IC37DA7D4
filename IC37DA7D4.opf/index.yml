@@ -1,0 +1,135 @@
+id: 23806c6be70b497787b422dc7349d91e
+annotation_type: index
+revision: '00001'
+annotations:
+  5fbb640707324b2aa11b017d123fe810:
+    base: 0BDE.txt
+    Chapters:
+    - title: 1. Parivarta
+      span:
+        start: 0
+        end: 32116
+    - title: 2. Parivarta
+      span:
+        start: 32117
+        end: 48363
+    - title: 3. Parivarta
+      span:
+        start: 48364
+        end: 81752
+    - title: 4. Parivarta
+      span:
+        start: 81753
+        end: 90804
+    - title: 5. Parivarta
+      span:
+        start: 90805
+        end: 101115
+    - title: 6. Parivarta
+      span:
+        start: 101116
+        end: 129382
+    - title: 7. Parivarta
+      span:
+        start: 129383
+        end: 147091
+    - title: 8. Parivarta
+      span:
+        start: 147092
+        end: 161162
+    - title: 9. Parivarta
+      span:
+        start: 161163
+        end: 171297
+    - title: 10. Parivarta
+      span:
+        start: 171298
+        end: 193766
+    - title: 11. Parivarta
+      span:
+        start: 193767
+        end: 217468
+    - title: 12. Parivarta
+      span:
+        start: 217469
+        end: 237297
+    - title: 13. Parivarta
+      span:
+        start: 237298
+        end: 244649
+    - title: 14. Parivarta
+      span:
+        start: 244650
+        end: 253672
+    - title: 15. Parivarta
+      span:
+        start: 253673
+        end: 264309
+    - title: 16. Parivarta
+      span:
+        start: 264310
+        end: 281386
+    - title: 17. Parivarta
+      span:
+        start: 281387
+        end: 304236
+    - title: 18. Parivarta
+      span:
+        start: 304237
+        end: 313229
+    - title: 19. Parivarta
+      span:
+        start: 313230
+        end: 333196
+    - title: 20. Parivarta
+      span:
+        start: 333197
+        end: 354096
+    - title: 21. Parivarta
+      span:
+        start: 354097
+        end: 370145
+    - title: 22. Parivarta
+      span:
+        start: 370146
+        end: 384679
+    - title: 23. Parivarta
+      span:
+        start: 384680
+        end: 389735
+    - title: 24. Parivarta
+      span:
+        start: 389736
+        end: 398986
+    - title: 25. Parivarta
+      span:
+        start: 398987
+        end: 410891
+    - title: 26. Parivarta
+      span:
+        start: 410892
+        end: 422428
+    - title: 27. Parivarta
+      span:
+        start: 422429
+        end: 435874
+    - title: 28. Parivarta
+      span:
+        start: 435875
+        end: 460226
+    - title: 29. Parivarta
+      span:
+        start: 460227
+        end: 466961
+    - title: 30. Parivarta
+      span:
+        start: 466962
+        end: 504545
+    - title: 31. Parivarta
+      span:
+        start: 504546
+        end: 524794
+    - title: 32. Parivarta
+      span:
+        start: 524795
+        end: 528335
